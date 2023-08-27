@@ -46,4 +46,4 @@ zState[value] = 1
 cwin = checkWin(xState, zState)
 if(cwin != -1):
 print("The End!")
-brea
+break
