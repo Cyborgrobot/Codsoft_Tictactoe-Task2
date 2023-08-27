@@ -47,3 +47,4 @@ cwin = checkWin(xState, zState)
 if(cwin != -1):
 print("The End!")
 break
+        turn = 1 - turn
